@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change Network Card on Server 007",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-11-30T08:24:00.593Z"
+    },
+    {
+      "id": 2,
+      "message": "Fix Utility Drive on Server 034",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-11-30T08:24:05.583Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
